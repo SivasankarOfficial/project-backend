@@ -1,0 +1,21 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 500px;
+    margin-top: 150px;
+    padding: 15px;
+}
+*{
+    text-align: center;
+   
+}
+button{
+    padding: 5px 20px;
+    margin-top: 10px;
+    background-color: rgb(172, 109, 231);
+    outline: none;
+    border-style: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 5px;
+}
